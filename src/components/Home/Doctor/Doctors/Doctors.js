@@ -5,7 +5,7 @@ import './Doctors.css'
 const Doctors = () => {
     const [doctors, setDoctors] = useState([]);
     useEffect(() => {
-        fetch('syedhealthcare.json')
+        fetch('mediguss.json')
             .then(res => res.json())
             .then(data => setDoctors(data.doctors))
     }, [])

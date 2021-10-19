@@ -12,13 +12,13 @@ const Slider = () => {
                     </div>
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img src="https://i.ibb.co/zJS17Kr/slider-1.jpg" className="d-block w-100" alt="..." />
+                            <img src="https://i.ibb.co/cLRSG2X/slider-1.jpg" className="d-block w-100" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="https://i.ibb.co/qkh8h1d/slider-2.jpg" className="d-block w-100" alt="..." />
+                            <img src="https://i.ibb.co/w6C5kjP/slider-3.jpg" className="d-block w-100" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="https://i.ibb.co/JvNHRfs/slider-3.jpg" className="d-block w-100" alt="..." />
+                            <img src="https://i.ibb.co/P919yd9/slider-2.jpg" className="d-block w-100" alt="..." />
                         </div>
                     </div>
                     <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -36,3 +36,5 @@ const Slider = () => {
 };
 
 export default Slider;
+
+

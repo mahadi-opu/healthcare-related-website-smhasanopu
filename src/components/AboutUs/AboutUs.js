@@ -7,10 +7,10 @@ const AboutUs = () => {
                 <h1 className="py-5" >This is About Us</h1>
                 <div className="row ">
                     <div className="col-md-6 col-12" >
-                        <img className="img-fluid " src="https://i.ibb.co/4MTbZgf/Doctor-5.jpg" alt="" />
+                        <img className="img-fluid " src="https://i.ibb.co/6gbyS8r/76869065.jpg" alt="" />
                     </div>
                     <div className="col-md-6 col-12 py-4">
-                        <h4 className="text-start lh-1 py-3">Welcome to the Syed Health Care!!</h4>
+                        <h4 className="text-start lh-1 py-3">Welcome to the Medi Guss Care!!</h4>
                         <p className="text-start lh-1">Rainobrain is one of the world’s leading children institutes for self empowerment. Having its corporate office in Chennai, India. Brainobrain kids academy private limited is an ISO 9001 : 2015 certified institution established in the year 2003, manned by professionals who have had a decade of international experience in kids education and training. Brainobrain operates in 40 countries, such as India, UK, Norway, USA, Canada, Australia, Morocco, Yemen, Ireland, Slovenia, Poland, Macedonia, Libya, UAE, Denmark, France, Saudi Arabia, Serbia, Montenegro, Oman, Qatar, Croatia, Nigeria, New Zealand, Zambia, Bosnia & Herzegovina, Egypt, Cyprus, Austria, Czech Republic, Bulgaria, Malaysia, Kuwait, Sri Lanka, Bahrain, Hungary, Kosovo, Germany, Sweden and Switzerland. Brainobrain has more than 950 successful franchise centres in all these countries. Brainobrain has transformed the lives of more than 2,00,000 children all over the world with its high-quality programmes.</p>
 
                         <h4 className="text-start lh-1 py-3">Mission</h4>

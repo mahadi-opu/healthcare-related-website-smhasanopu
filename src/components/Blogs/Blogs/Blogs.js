@@ -4,7 +4,7 @@ import Blog from '../Blog/Blog';
 const Blogs = () => {
     const [blogs, setBlog] = useState([]);
     useEffect(() => {
-        fetch('/syedhealthcare.json')
+        fetch('/mediguss.json')
             .then(res => res.json())
             .then(data => setBlog(data.blogs))
     }, []);
