@@ -37,6 +37,7 @@ const Registration = () => {
     // 
     const handleRegistration = (e) => {
         e.preventDefault();
+        console.log(email, password);
         if (password.length < 6) {
             setError('Password should be at least 6 characters');
             return;
@@ -50,6 +51,7 @@ const Registration = () => {
                 const user = result.user;
                 verifyEmail();
                 history.push(redirect_uri);
+                console.log(user);
                 setError('');
                 setUserName();
             })
@@ -66,6 +68,7 @@ const Registration = () => {
     const verifyEmail = () => {
         sendEmailVerification(auth.currentUser)
             .then(result => {
+                console.log(result);
             })
     }
     return (
