@@ -1,0 +1,17 @@
+footer{
+    background-color: #00B3CC;
+}
+footer a{
+    text-decoration: none;
+}
+section{
+    /* background-color: #333; */
+}
+.cus-hr{
+    width: 60px; 
+    background-color: #b1a9c7; 
+    height: 2px;
+}
+.copy-right{
+    background-color: rgba(0, 0, 0, 0.2);
+}

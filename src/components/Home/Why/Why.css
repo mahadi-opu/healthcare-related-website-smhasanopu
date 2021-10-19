@@ -1,0 +1,10 @@
+.why-bg{
+    background: #00B3CC;
+    color: aliceblue;
+    padding: 40px;
+}
+.why-bg p{
+    font-size: 14px;
+    font-weight: 300;
+    text-align: justify;
+}

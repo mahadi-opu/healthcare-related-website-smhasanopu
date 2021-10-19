@@ -1,0 +1,136 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Pediatrics",
+      "price": 2000,
+      "info": "Pediatrics, Syed HealthCare Center, we partner with families to deliver expert, compassionate care to infants, children and teens.",
+      "description": "Pediatrics is the branch of medicine dealing with the health and medical care of infants, children, and adolescents from birth up to the age of 18. The word “paediatrics” means “healer of children”; they are derived from two Greek words: (pais = child) and (iatros = doctor or healer). Paediatrics is a relatively new medical specialty, developing only in the mid-19th century. Abraham Jacobi (1830–1919) is known as the father of paediatrics.",
+      "img": "https://i.ibb.co/1Tggdg5/br-Optometrist.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cardiology",
+      "price": 3000,
+      "info": "Our comprehensive heart services include general and preventive cardiology, cardiac testing and imaging, specialized cardiology and cardiac surgery.",
+      "description": "The Cardiology Department of Evercare Hospital Dhaka has gained reputation for its dynamic and innovation in the diagnosis, investigation and treatment of patients with all forms of heart diseases, both generally encountered and complex cases. We have a dedicated unit of four full-time Consultants, and a team of junior doctors, nurses, and technicians trained to the highest standard in cardiac assessment. Our specialists diagnose and manage full range of heart conditions, and we are fully equipped with state-of-the-art facilities and complete range of services – from cardiac investigations to Interventional Cardiology procedures in ultramodern Catheterization Lab (Cath Lab). Cardio-pulmonary rehabilitation program is offered to patients through our Physical Medicine & Rehabilitation Centre.",
+      "img": "https://i.ibb.co/jyGcGMt/cancercare.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Neurosurgery",
+      "price": 4000,
+      "info": "Our top-rated neurosurgeons use advanced imaging and surgical techniques to treat neurological conditions, such as brain tumors and traumatic brain injury.",
+      "description": "It is the medical specialty concerned with the diagnosis and treatment of of patients with injury to, or diseases/disorders of the brain, spinal cord and spinal column, and peripheral nerves within all parts of the body. The specialty of neurosurgical care includes both adult and pediatric patients. Dependent upon the nature of the injury or disease a neurological surgeon may provide surgical and/or non-surgical care.",
+      "img": "https://i.ibb.co/rk6Vb4W/Cardiology.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cancer Care",
+      "price": 5000,
+      "info": "UCLA Health patients can expect comprehensive and individualized cancer care, delivered in convenient locations across Southern California.",
+      "description": "More than 150,000 people with cancer come to Mayo Clinic each year. They find experts with extensive experience in the diagnosis and treatment of virtually every kind of cancer and the resources to provide excellent care tailored to their needs. Mayo Clinic doctors and researchers solve the most serious and complex medical questions, one person at a time. U.S. News & World Report consistently ranks Mayo Clinic among the top hospitals for cancer in the nation.",
+      "img": "https://i.ibb.co/g4D5vQ4/General-Dentist.jpg"
+    },
+    {
+      "id": 5,
+      "name": "General Dentist",
+      "price": 6000,
+      "info": "General dentists prevent, evaluate, diagnose, and treat diseases of the oral cavity, as well as maintain the function and appearance of the teeth.",
+      "description": "General dentists prevent, evaluate, diagnose, and treat diseases of the oral cavity, as well as maintain the function and appearance of the teeth. Many oral diseases and abnormalities can indicate other diseases. A general dentist may refer patients to their physician or a specialist for further evaluation, or vice versa for treatment. Our residents come from all parts of the world, bringing you a global expertise coupled with the cutting edge research and knowledge of the University of Rochester Medical Center. There is no dental concern too small or large for the professionals at Eastman Dental's General Dentistry Division.",
+      "img": "https://i.ibb.co/pWKZXMm/Neuro-Surgery.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Optometrist",
+      "price": 7000,
+      "info": "When a person makes an appointment to see an eye doctor, they may consult with an ophthalmologist, an optometrist, or an optician. ",
+      "description": "There are three different types of eye care practitioner: optometrists, opticians, and ophthalmologists. Each has a different level of training and expertise, and each will provide different levels of care. This article reviews the differences between the types of eye care professional. It also discusses the roles of other eye care practitioners, including nurses, medical assistants, and technicians.",
+      "img": "https://i.ibb.co/HgLtm5c/Optometrist.jpg"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "name": "ACE Insights Blog",
+      "price": 2000,
+      "time": 2,
+      "description": "The American Council on Exercise’s blog has fitness articles on a variety of topics such as yoga, strength training, and exercises for beginners. Articles are backed by guidelines and recommendations from the American Council on Exercise.",
+      "img": "https://i.ibb.co/3FBC1Kh/Blog-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "The Art of Healthy Living",
+      "price": 3000,
+      "time": 2,
+      "description": "The Art of Healthy Living offers fitness articles related to subjects such as exercise supplements and high-intensity interval training. It also covers food and nutrition topics and general health and well-being trends.",
+      "img": "https://i.ibb.co/5LvVn53/Blog-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nerd Fitness",
+      "price": 4000,
+      "time": 2,
+      "description": "This blog serves up health and fitness advice from a self-described “full-time team of 25 supportive nerds (and a massive worldwide community).” Besides a fun and engaging blog, Nerd Fitness offers an online coaching program, at-home workouts, and free resources.",
+      "img": "https://i.ibb.co/VHHD1Cj/Blog-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MyFitnessPal Blog",
+      "price": 5000,
+      "time": 2,
+      "description": "This is the blog of nutrition tracking app MyFitnessPal. Get healthy recipes, nutrition advice, weight loss tips, fitness inspiration, and more.Besides a fun and engaging blog, Nerd Fitness offers an online coaching program, at-home workouts, and free resources.",
+      "img": "https://i.ibb.co/mbkWYRP/Blog-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Shape",
+      "price": 6000,
+      "time": 2,
+      "description": "The website for fitness magazine Shape has tons of free articles, including step-by-step workouts, nutrition advice, and mental health insights. There are also weight-loss tips and plans and videos.",
+      "img": "https://i.ibb.co/0Yr82gT/Blog-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Well + Good",
+      "price": 7000,
+      "time": 2,
+      "description": "Well + Good is a wellness blog with articles on fitness, nutrition, beauty, and more. The journalism-based fitness site features interviews with fitness experts, practical fitness tips, and videos to walk blog readers through workouts.",
+      "img": "https://i.ibb.co/f4wYp96/Blog-6.jpg"
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Syed Fahim",
+      "price": 2000,
+      "time": 2,
+      "description": "How we dream about our future",
+      "img": "https://i.ibb.co/FqB4prT/Doctor-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Syed Sakib",
+      "price": 3000,
+      "time": 2,
+      "description": "How we dream about our future",
+      "img": "https://i.ibb.co/VJ7pQ61/Doctor-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Miraz Molla",
+      "price": 4000,
+      "time": 2,
+      "description": "How we dream about our future",
+      "img": "https://i.ibb.co/tDMVnkt/Doctor-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "SyedaZannat",
+      "price": 5000,
+      "time": 2,
+      "description": "How we dream about our future",
+      "img": "https://i.ibb.co/5hJqm6t/Doctor-4.jpg"
+    }
+  ]
+}
