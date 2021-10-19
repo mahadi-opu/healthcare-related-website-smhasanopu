@@ -94,8 +94,8 @@ const Footer = () => {
                     className="text-center p-3 copy-right"
                 >
                     © 2021 Copyright:
-                    <Link className="text-danger" to="https://github.com/smhasanopu">S.M.Hasan Opu</Link>
-                  
+                    <Link className="text-danger" to={{ pathname: "https://github.com/smhasanopu/" }} target="_blank" >S.M.Hasan Opu</Link>
+
 
                 </div>
                 {/* <!-- Copyright --> */}

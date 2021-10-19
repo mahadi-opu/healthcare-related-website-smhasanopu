@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+#Getting Started with Medi-Guss Health Care website.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,5 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-#   h e a l t h c a r e - r e l a t e d - w e b s i t e - S y e d M a h a d i b H a s a n  
+#   h e a l t h c a r e - r e l a t e d - w e b s i t e - S y e d M a h a d i b H a s a n 
+ 
  
