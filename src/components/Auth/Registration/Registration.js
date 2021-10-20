@@ -51,6 +51,7 @@ const Registration = () => {
                 const user = result.user;
                 verifyEmail();
                 history.push(redirect_uri);
+                window.location.reload();
                 console.log(user);
                 setError('');
                 setUserName();
